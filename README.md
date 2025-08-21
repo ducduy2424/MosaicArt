@@ -27,3 +27,6 @@ Bạn có thể tải nhiều ảnh, chọn bố cục, chỉnh màu nền, vi�
    streamlit run photo_collage_app.py
 
    ```
+
+2. Ảnh ứng dụng
+   ![alt text](image.png)
